@@ -12,6 +12,7 @@ function App() {
       <h1>this is an edit in feature 2     branch </h1>
       <h1>This is Bidyut code</h1>
       <p>another code add bidyut</p>
+      hafdafljalfja
       <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero autem quaerat similique sit impedit deserunt earum accusamus asperiores vitae harum.</h1>
     </>
   )
